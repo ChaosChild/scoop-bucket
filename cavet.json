@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-rc1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.1.0-rc1/cavet_0.1.0-rc1_windows_amd64.zip",
+            "bin": [
+                "cavet.exe"
+            ],
+            "hash": "8c214326a609c373662f1f215d26fa6c098337e674a56d7a48ede9ba16a95c42"
+        },
+        "arm64": {
+            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.1.0-rc1/cavet_0.1.0-rc1_windows_arm64.zip",
+            "bin": [
+                "cavet.exe"
+            ],
+            "hash": "40a70ea9de02824a031f0dc7241ac34bcf742e03db9d06ca07e2c115ec4994cc"
+        }
+    },
+    "homepage": "https://github.com/ChaosChild/cavet",
+    "license": "MIT",
+    "description": "Advisory security tooling for coding agents"
+}
