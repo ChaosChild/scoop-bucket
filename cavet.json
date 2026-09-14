@@ -6,14 +6,14 @@
             "bin": [
                 "cavet.exe"
             ],
-            "hash": "a3db9a293ba703512ca513278d68b59bc36852e54105a589b7aec8411c8799b7"
+            "hash": "6623d87750798e6652d65081f7dc1162f1fec54b2f7555873c55b764c7d725c5"
         },
         "arm64": {
             "url": "https://github.com/ChaosChild/cavet/releases/download/v0.2.0/cavet_0.2.0_windows_arm64.zip",
             "bin": [
                 "cavet.exe"
             ],
-            "hash": "f8b29bc0c2247c2e3b8dcec908ade68e8e8db4e3c553248bb372d9203bb872d6"
+            "hash": "6b088709628a88fd1d94c9f83025aa0c18467bfcfc8abfb969f379514422a5d7"
         }
     },
     "homepage": "https://github.com/ChaosChild/cavet",
