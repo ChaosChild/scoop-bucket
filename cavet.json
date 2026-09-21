@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.2.1/cavet_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.2.2/cavet_0.2.2_windows_amd64.zip",
             "bin": [
                 "cavet.exe"
             ],
-            "hash": "7b5b51e7ad91021b3271b91c26feb4bf989dec784ac11eb268af0efa6470350b"
+            "hash": "377ffb95936a649ee357138089ed3e172fc879b4121512e76189781b1ada1632"
         },
         "arm64": {
-            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.2.1/cavet_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/ChaosChild/cavet/releases/download/v0.2.2/cavet_0.2.2_windows_arm64.zip",
             "bin": [
                 "cavet.exe"
             ],
-            "hash": "ea7239b3528325d9b6e04bf3d9719d423a5c9ac88c5230540981a04abd50c124"
+            "hash": "878954b8ded7f82652ee6dae61fa59977c03447d93abfffa1f9e8ff08189ab46"
         }
     },
     "homepage": "https://github.com/ChaosChild/cavet",
